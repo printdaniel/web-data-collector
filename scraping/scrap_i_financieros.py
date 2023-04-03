@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-from urls import *
+#from urls import *
+from scraping.urls import *
 
 
 class ScrapIndices:
