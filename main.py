@@ -14,6 +14,7 @@ class Menu:
             print("Menu")
             print("1 Valores actuales del dóllar")
             print("2 Indices financieros")
+            print("Presion x para salir")
 
             opcion = input("Seleccione la opción: ")
 
